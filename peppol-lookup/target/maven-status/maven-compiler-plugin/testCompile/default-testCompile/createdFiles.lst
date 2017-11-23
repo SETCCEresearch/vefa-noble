@@ -1,0 +1,8 @@
+no\difi\vefa\peppol\lookup\util\DynamicHostnameGeneratorTest.class
+no\difi\vefa\peppol\lookup\locator\BdxlLocatorTest.class
+no\difi\vefa\peppol\lookup\LookupClientBuilderTest.class
+no\difi\vefa\peppol\lookup\reader\BusdoxReaderTest.class
+no\difi\vefa\peppol\lookup\reader\BdxrReaderTest.class
+no\difi\vefa\peppol\lookup\locator\BusdoxLocatorTest.class
+no\difi\vefa\peppol\lookup\reader\MultiReaderTest.class
+no\difi\vefa\peppol\lookup\LookupClientTest.class

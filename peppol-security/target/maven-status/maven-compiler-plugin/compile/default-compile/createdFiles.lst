@@ -1,0 +1,16 @@
+no\difi\vefa\peppol\security\xmldsig\X509KeySelector$1.class
+no\difi\vefa\peppol\security\mode\AbstractPeppolMode$1.class
+no\difi\vefa\peppol\security\mode\TestMode$1.class
+no\difi\vefa\peppol\security\xmldsig\XmldsigSigner.class
+no\difi\vefa\peppol\security\util\DifiCertificateValidator.class
+no\difi\vefa\peppol\security\xmldsig\ExtraSignatureMethod.class
+no\difi\vefa\peppol\security\Mode.class
+no\difi\vefa\peppol\security\xmldsig\XmldsigVerifier.class
+no\difi\vefa\peppol\security\api\PeppolSecurityException.class
+no\difi\vefa\peppol\security\mode\TestMode.class
+no\difi\vefa\peppol\security\api\ModeDescription.class
+no\difi\vefa\peppol\security\api\CertificateValidator.class
+no\difi\vefa\peppol\security\xmldsig\X509KeySelector.class
+no\difi\vefa\peppol\security\mode\ProductionMode.class
+no\difi\vefa\peppol\security\mode\AbstractPeppolMode.class
+no\difi\vefa\peppol\security\mode\ProductionMode$1.class

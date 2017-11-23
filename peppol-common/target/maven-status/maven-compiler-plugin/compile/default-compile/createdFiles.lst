@@ -1,0 +1,17 @@
+no\difi\vefa\peppol\common\model\ProcessIdentifier.class
+no\difi\vefa\peppol\common\code\NobleIcd.class
+no\difi\vefa\peppol\common\code\Service.class
+no\difi\vefa\peppol\common\model\TransportProfile.class
+no\difi\vefa\peppol\common\model\Scheme.class
+no\difi\vefa\peppol\common\util\XmlUtils.class
+no\difi\vefa\peppol\common\model\InstanceIdentifier.class
+no\difi\vefa\peppol\common\code\Iso6523Icd.class
+no\difi\vefa\peppol\common\lang\EndpointNotFoundException.class
+no\difi\vefa\peppol\common\api\Icd.class
+no\difi\vefa\peppol\common\util\DomUtils.class
+no\difi\vefa\peppol\common\model\Endpoint.class
+no\difi\vefa\peppol\common\model\ParticipantIdentifier.class
+no\difi\vefa\peppol\common\lang\PeppolException.class
+no\difi\vefa\peppol\common\model\TransportProtocol.class
+no\difi\vefa\peppol\common\model\DocumentTypeIdentifier.class
+no\difi\vefa\peppol\common\model\ServiceMetadata.class
